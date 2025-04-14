@@ -102,5 +102,5 @@ Worked on an **Energy Consumption Optimization** project in the steel industry.
 </p>
 
 <p align="center" style="color: #0d6efd; font-weight: bold;">
-  Made with ❤️ by Vinay Poduri
+   Vinay Poduri
 </p>
