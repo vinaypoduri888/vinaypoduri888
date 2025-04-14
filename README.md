@@ -19,8 +19,8 @@
 ### 💼 Top Projects
 | Project | Description |
 |--------|-------------|
-| [CareConnect AI](https://github.com/vinaypoduri888/CareConnect-AI) | An AI-driven smart assistant healthcare system using ML and NLP. |
 | [ExploreData](https://github.com/vinaypoduri888/ExploreData) | A visual data exploration tool for analysts and learners with charts, summaries, and data filters. |
+| [visualeai](https://github.com/vinaypoduri888/visualeai) | an interactive AI app using Streamlit that performs Visual Question Answering and Image Captioning with VILT and BLIP models. Supports image upload, webcam, and URLs, and delivers responses via text and audio. |
 
 ---
 
