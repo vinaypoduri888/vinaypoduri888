@@ -46,6 +46,39 @@
 
 ---
 
+🧑‍💻 Experience
+💼 Data Science Intern – DevZen
+📍 Remote | 🗓️ Feb 2024 – Apr 2024
+Worked on an Energy Consumption Optimization project in the steel industry.
+
+Built and deployed LSTM-based deep learning models for commodity price prediction and resource stock optimization.
+
+Integrated AWS services including S3, Lambda, Glue, and Redshift for scalable data workflows.
+
+Leveraged Airflow to schedule and monitor ETL pipelines and built Flask APIs to expose data-driven services.
+
+Collaborated in an agile team, contributing to model evaluation, visualizations, and REST API development.
+
+🤖 AI Intern – Aimer Society
+📍 Vijayawada, India | 🗓️ June 2024 – July 2024
+
+Developed Computer Vision models using CNNs and YOLO, achieving 98% accuracy in image classification tasks.
+
+Built the “Talking Parrot,” an AI assistant powered by LLMs (GPT & Claude) for generative task execution, boosting automation efficiency by 30%.
+
+Explored real-time object detection, NLP integrations, and user-focused AI workflows.
+
+🌐 Web Development Intern – Coders Cave
+📍 Remote | 🗓️ Aug 2023 – Sep 2023
+
+Designed and built responsive front-end interfaces using HTML, CSS, and JavaScript.
+
+Integrated Bootstrap for mobile-first design and improved UI/UX consistency.
+
+Gained exposure to GitHub-based project collaboration and agile-based module releases.
+
+
+
 ### 📫 Let’s Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-poduri-148b84265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
