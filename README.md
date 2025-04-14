@@ -7,7 +7,7 @@
 
 ---
 
-### 🔥 About Me
+### 🎓 About Me
 - 🎓 Specializing in **Artificial Intelligence & Machine Learning** (B.Tech Graduate)
 - 👨‍💻 Passionate about solving real-world problems using intelligent systems
 - 🚀 Thrive in innovation-driven environments and love building impactful projects
