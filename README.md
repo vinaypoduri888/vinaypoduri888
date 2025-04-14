@@ -72,6 +72,7 @@ Worked on an **Energy Consumption Optimization** project in the steel industry.
 - Integrated Bootstrap for mobile-first design and improved UI/UX consistency.  
 - Gained exposure to GitHub-based project collaboration and agile-based module releases.
 
+---
 
 
 ### 📫 Let’s Connect!
