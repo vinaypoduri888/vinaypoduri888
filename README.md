@@ -40,8 +40,8 @@
 ---
 
 ### 🏅 Certifications
-- 🥇 **Cybersecurity Finalist** - Hackathon Certificate
-- 🥇 **AI Hackathon** - Participation & Recognition
+- 🥇 **Cybersecurity Finalist** - finalist in the cyber security competition conducted in iit madras 
+- 🥇 **AI Hackathon** - Participation & Recognition so many ai and ml related hackthons
 - 💼 **Data Science Internships** - Hands-on practical certifications in AI and ML
 
 ---
@@ -64,7 +64,7 @@
 ---
 
 ### 📜 Quote that Drives Me:
-> _"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt_
+> Dont be busy be productive 
 
 ---
 
