@@ -1,8 +1,8 @@
 <!-- README.md -->
 <h1 align="center">Hi there, I'm Vinay Poduri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <p align="center">
-  <b>AI & ML Enthusiast | Data Science Intern | Web Developer</b><br>
-  <i>Actively seeking full-time roles in Data Science</i>
+  <b>AI engineer @string metaverse | AI & ML Enthusiast | Ex Data Science Intern  | Web Developer</b><br>
+  <i>Actively seeking full-time roles in ai roles</i>
 </p>
 
 ---
