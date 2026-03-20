@@ -38,6 +38,13 @@
 </p>
 
 ---
+### 💻 Skills
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, YOLO, CNNs, LSTM
+- **Data:** Pandas, NumPy, SQL, ETL
+- **Cloud:** AWS (S3, Lambda, Glue, Redshift)
+- **Web:** Flask, Streamlit, FastAPI
+- **Tools:** Git, Docker, Jupyter, VS Code
+---
 
 ### 🏅 Certifications
 - 🥇 **Cybersecurity Finalist** - finalist in the cyber security competition conducted in iit madras 
@@ -70,6 +77,9 @@ Worked on an **Energy Consumption Optimization** project in the steel industry.
 
 ---
 ### 📫 Let’s Connect!
+💼 **Open to:** Full-time AI/ML Engineer roles  
+⏰ **Availability:** 10 days 
+📧 **Best way to reach:** vinaypoduri888@gmail.com
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-poduri-148b84265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vinaypoduri888@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
